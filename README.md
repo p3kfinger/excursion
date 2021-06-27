@@ -1,2 +1,9 @@
-# excursion
-static webapp page using html/css
+excursion
+---------
+
++static webpage 
++html/css
++git/github
+
+
+
